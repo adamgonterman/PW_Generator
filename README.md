@@ -2,7 +2,7 @@
 
 ## Description
 
-I wanted to create a random password generator with input from myself (or whoever the end user may be) so that I can create random, strong passwords for the multiple sites I use the require strong, unique passwords.
+I wanted to create an application that generated random passwords based on a set of constraints (number of characters, what type of characters) in order to help create strong, unique passwords for the various sites that people use. This will help the user generate different passwords for their different accounts and ensure that the password fits the constraints set by that site while also making it difficult to guess.
 
 ## Installation
 
