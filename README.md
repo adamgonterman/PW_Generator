@@ -6,11 +6,13 @@ I wanted to create a random password generator with input from myself (or whoeve
 
 ## Installation
 
-Pull from my public github repository (https://github.com/adamgonterman/PW_Generator) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access my portfolio at the following URL:  
+Pull from my public github repository (https://github.com/adamgonterman/PW_Generator) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access my portfolio at the following URL: https://adamgonterman.github.io/PW_Generator/ . 
 
 ## Usage
 
-I have included screenshots of the application (assets/application_screenshot.png). 
+I have included a screenshot of the application below. The file can also be found in this repository (assets/application_screenshot.png). 
+
+![image](https://user-images.githubusercontent.com/109933262/185542440-54ae0ead-a65b-4391-899f-6ee4cdc3d08c.png)
 
 ## License
 
